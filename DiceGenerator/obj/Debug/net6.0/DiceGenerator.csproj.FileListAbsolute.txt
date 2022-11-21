@@ -1,0 +1,15 @@
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\obj\Debug\net6.0\DiceGenerator.csproj.AssemblyReference.cache
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\obj\Debug\net6.0\DiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\obj\Debug\net6.0\DiceGenerator.AssemblyInfoInputs.cache
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\obj\Debug\net6.0\DiceGenerator.AssemblyInfo.cs
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\obj\Debug\net6.0\DiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\bin\Debug\net6.0\DiceGenerator.exe
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\bin\Debug\net6.0\DiceGenerator.deps.json
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\bin\Debug\net6.0\DiceGenerator.runtimeconfig.json
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\bin\Debug\net6.0\DiceGenerator.dll
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\bin\Debug\net6.0\DiceGenerator.pdb
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\obj\Debug\net6.0\DiceGenerator.dll
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\obj\Debug\net6.0\refint\DiceGenerator.dll
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\obj\Debug\net6.0\DiceGenerator.pdb
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\obj\Debug\net6.0\DiceGenerator.genruntimeconfig.cache
+C:\Users\namitha.augustine\source\repos\ExperionProject\DiceGenerator\obj\Debug\net6.0\ref\DiceGenerator.dll

@@ -1,0 +1,15 @@
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\bin\Debug\net6.0\SnakeAndLader.exe
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\bin\Debug\net6.0\SnakeAndLader.deps.json
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\bin\Debug\net6.0\SnakeAndLader.runtimeconfig.json
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\bin\Debug\net6.0\SnakeAndLader.dll
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\bin\Debug\net6.0\SnakeAndLader.pdb
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\obj\Debug\net6.0\SnakeAndLader.csproj.AssemblyReference.cache
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\obj\Debug\net6.0\SnakeAndLader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\obj\Debug\net6.0\SnakeAndLader.AssemblyInfoInputs.cache
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\obj\Debug\net6.0\SnakeAndLader.AssemblyInfo.cs
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\obj\Debug\net6.0\SnakeAndLader.csproj.CoreCompileInputs.cache
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\obj\Debug\net6.0\SnakeAndLader.dll
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\obj\Debug\net6.0\refint\SnakeAndLader.dll
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\obj\Debug\net6.0\SnakeAndLader.pdb
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\obj\Debug\net6.0\SnakeAndLader.genruntimeconfig.cache
+C:\Users\namitha.augustine\source\repos\ExperionProject\SnakeAndLader\obj\Debug\net6.0\ref\SnakeAndLader.dll
